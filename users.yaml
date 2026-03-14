@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Admin
+      password: admin123
+    analyst:
+      email: analyst@gmail.com
+      name: Security Analyst
+      password: analyst123
+
+cookie:
+  expiry_days: 1
+  key: cyber_dashboard_key
+  name: cyber_cookie
