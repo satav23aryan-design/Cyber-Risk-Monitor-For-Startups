@@ -99,7 +99,7 @@ The dashboard provides:
 
 ## Author
 
-Aman Doke
+Aryan Satav
 
 ------------------------------------------------------------------------
 
